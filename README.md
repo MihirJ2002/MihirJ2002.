@@ -1,78 +1,113 @@
-<h1 align="center">Mihir Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Mihir Jadhav</h1>
 
-<h3 align="center">Data Analyst | Business Analyst</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel | Tableau</h3>
 
 <p align="center">
-Transforming raw data into actionable business insights through analytics, visualization, and reporting.
+Transforming raw data into meaningful business insights using analytics, dashboards and reporting.
 </p>
 
-<!-- ===================== CONTACT ===================== -->
+<hr>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mihir-jadhav-304b4040b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mihir%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mihirjdhav032002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mihirjdhav032002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MihirJ2002" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-MihirJ2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## About me
-
-Data Analyst with hands-on experience in transforming raw data into meaningful business insights using analytics, visualization, and reporting. Skilled in Python, SQL, Excel, Power BI, and Tableau with a strong focus on dashboard development, KPI analysis, and business decision support.
-
----
-
-## Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboarding-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KPI%20Analysis-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Reporting-2563EB?style=for-the-badge"/>
+  <a href="www.linkedin.com/in/mihir-jadhav-304b4040b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mihir%20Jadhav-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mihirjdhav032002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mihirjdhav032002-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/MihirJ2002">
+    <img src="https://img.shields.io/badge/GitHub-MihirJ2002-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
----
+<hr>
 
-## Technical Skills
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="right" width="330" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analyst-illustration-download-in-svg-png-gif-file-formats--analytics-logo-business-pack-illustrations-4373019.png">
+
+I am a passionate **Data Analyst** with knowledge of **SQL, Python, Power BI, Tableau, Excel and Business Analytics**.  
+I enjoy building dashboards, cleaning data, analyzing business problems and converting raw data into actionable insights.
+
+- 🎯 Interested in Data Analytics & Business Intelligence  
+- 📊 Skilled in Dashboard Development and Reporting  
+- 🧠 Knowledge of RCA, SWOT, BRD, FRD and UAT  
+- 💼 Looking for opportunities as Data Analyst / Business Analyst  
+- 📍 India  
+
+<br>
+
+<hr>
+
+## 📊 Project & Learning Management
+
+I work on analytics projects that focus on solving real business problems through data-driven decisions.
+
+### 🔹 Key Project Areas
+
+- **SQL Database Analytics**
+- **Power BI Dashboard Development**
+- **Tableau Visualization**
+- **Excel Data Cleaning & Reporting**
+- **Python Data Analysis**
+- **Business Requirement Documentation**
+- **Root Cause Analysis & SWOT**
+
+<hr>
+
+## 🛠 Tech Stack & Tools
+
+### 💻 Programming & Database
+<p>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql">
 </p>
 
----
+### 📊 Data Visualization
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau">
+<img src="https://img.shields.io/badge/Looker%20Studio-red?style=for-the-badge&logo=looker">
+</p>
 
-## Featured Projects
+### 📁 Business & Analytics Tools
+<p>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel">
+<img src="https://img.shields.io/badge/Power%20Query-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Agile-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/SWOT-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/RCA-red?style=for-the-badge">
+</p>
 
-### HR Analytics Dashboard
-Analyzed employee performance, engagement, attrition, and training metrics using Power BI and Excel.
+<hr>
 
-### Bank Loan Analysis
-Analyzed loan approval patterns, customer risk factors, and default indicators using Python and SQL.
+## 📌 Featured Projects
 
-### Sales Performance Dashboard
-Built an interactive dashboard to track sales, profit, revenue, and regional KPIs using Power BI.
+### ✈️ Aerox Aviation Database & Analytics System
+Designed a normalized SQL database for airline operations including passenger management, booking, routes, crew, airport services, revenue and customer feedback analysis.
 
-### Netflix Data Analysis
-Performed exploratory data analysis on Netflix content trends using Python, Pandas, and Matplotlib.
+### 📈 Fundraising Analytics Dashboard
+Built an interactive dashboard to analyze campaign success rate, donor behavior, marketing performance and fundraising ROI.
 
----
+### 🎓 Learning & Development Analytics Dashboard
+Created a Power BI dashboard to analyze training performance, department ROI, employee engagement and performance gain.
+
+<hr>
+
+## 📈 GitHub Stats
 
 <p align="center">
-Thank you for visiting my GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=MihirJ2002&show_icons=true&theme=tokyonight" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirJ2002&theme=tokyonight" width="48%">
+</p>
+
+<hr>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="www.linkedin.com/in/mihir-jadhav-304b4040b/">LinkedIn</a> |
+<a href="mailto:mihirjdhav032002@gmail.com">Gmail</a> |
+<a href="https://github.com/MihirJ2002">GitHub</a>
 </p>
