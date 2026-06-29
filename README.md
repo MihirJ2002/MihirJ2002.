@@ -1,113 +1,146 @@
-<h1 align="center">Hi 👋, I'm Mihir Jadhav</h1>
-
-<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel | Tableau</h3>
-
 <p align="center">
-Transforming raw data into meaningful business insights using analytics, dashboards and reporting.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Mihir+Jadhav" />
 </p>
 
-<hr>
+<h3 align="center">Data Analyst | Business Analyst </h3>
+
+---
+
+# 📫 Contact Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/mihir-jadhav-304b4040b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mihir%20Jadhav-blue?style=for-the-badge&logo=linkedin">
-  </a>
   <a href="mailto:mihirjdhav032002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mihirjdhav032002-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-mihirjdhav032002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mihir-jadhav-304b4040b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mihir%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MihirJ2002">
-    <img src="https://img.shields.io/badge/GitHub-MihirJ2002-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-MihirJ2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<hr>
 
-## 🚀 About Me
+---
 
-<img align="right" width="330" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analyst-illustration-download-in-svg-png-gif-file-formats--analytics-logo-business-pack-illustrations-4373019.png">
+# 🚀 About Me
 
-I am a passionate **Data Analyst** with knowledge of **SQL, Python, Power BI, Tableau, Excel and Business Analytics**.  
-I enjoy building dashboards, cleaning data, analyzing business problems and converting raw data into actionable insights.
+<img align="right" width="330" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analyst-illustration-download-in-svg-png-gif-file-formats--analytics-logo-business-pack-illustrations-4373019.png" />
 
-- 🎯 Interested in Data Analytics & Business Intelligence  
-- 📊 Skilled in Dashboard Development and Reporting  
-- 🧠 Knowledge of RCA, SWOT, BRD, FRD and UAT  
-- 💼 Looking for opportunities as Data Analyst / Business Analyst  
-- 📍 India  
+I am a passionate **Data Analyst** and **Business Analyst** with practical knowledge of **SQL, Python, Power BI, Tableau, Excel, and Business Analytics**.  
+I enjoy transforming raw data into meaningful insights, interactive dashboards, and business-focused recommendations.
 
-<br>
+### 🎯 What I Do
 
-<hr>
+- 📊 Build interactive dashboards using **Power BI** and **Tableau**
+- 🐍 Analyze and automate workflows using **Python**
+- 🗄️ Design optimized databases and write advanced **SQL** queries
+- 📈 Perform business analysis using **RCA, SWOT, BRD, FRD, and UAT**
+- 📋 Create reports that support data-driven decision-making
 
-## 📊 Project & Learning Management
+---
 
-I work on analytics projects that focus on solving real business problems through data-driven decisions.
+# 📊 Project & Learning Management
 
-### 🔹 Key Project Areas
+I work on end-to-end analytics projects involving data cleaning, transformation, visualization, dashboard design, and business decision-making frameworks.
 
-- **SQL Database Analytics**
-- **Power BI Dashboard Development**
-- **Tableau Visualization**
-- **Excel Data Cleaning & Reporting**
-- **Python Data Analysis**
-- **Business Requirement Documentation**
-- **Root Cause Analysis & SWOT**
+- **Dashboard Development:** Power BI, Tableau, and Looker Studio dashboards  
+- **Business Documentation:** BRD, FRD, UAT, and storytelling reports  
+- **Decision Frameworks:** RCA, SWOT, Agile, KPI analysis, and ROI tracking  
+- **Data Processing:** Excel, Power Query, SQL, and Python analysis  
 
-<hr>
+---
 
-## 🛠 Tech Stack & Tools
+# ⚡ Tech Stack & Tools
 
-### 💻 Programming & Database
-<p>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql">
-</p>
+## 💻 Programming & Database
 
-### 📊 Data Visualization
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau">
-<img src="https://img.shields.io/badge/Looker%20Studio-red?style=for-the-badge&logo=looker">
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql)
 
-### 📁 Business & Analytics Tools
-<p>
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel">
-<img src="https://img.shields.io/badge/Power%20Query-darkgreen?style=for-the-badge">
-<img src="https://img.shields.io/badge/Agile-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/SWOT-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/RCA-red?style=for-the-badge">
-</p>
+## 📊 Dashboarding & Data Visualization
 
-<hr>
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-red?style=for-the-badge&logo=looker)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-purple?style=for-the-badge)
 
-## 📌 Featured Projects
+## 📁 Data Analysis Tools
 
-### ✈️ Aerox Aviation Database & Analytics System
-Designed a normalized SQL database for airline operations including passenger management, booking, routes, crew, airport services, revenue and customer feedback analysis.
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
+![Power Query](https://img.shields.io/badge/Power%20Query-darkgreen?style=for-the-badge)
+![Pivot Table](https://img.shields.io/badge/Pivot%20Table-orange?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-blueviolet?style=for-the-badge)
 
-### 📈 Fundraising Analytics Dashboard
-Built an interactive dashboard to analyze campaign success rate, donor behavior, marketing performance and fundraising ROI.
+## 🧠 Business Analysis
 
-### 🎓 Learning & Development Analytics Dashboard
-Created a Power BI dashboard to analyze training performance, department ROI, employee engagement and performance gain.
+![BRD](https://img.shields.io/badge/BRD-blue?style=for-the-badge)
+![FRD](https://img.shields.io/badge/FRD-green?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-orange?style=for-the-badge)
+![RCA](https://img.shields.io/badge/RCA-red?style=for-the-badge)
+![SWOT](https://img.shields.io/badge/SWOT-purple?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-yellow?style=for-the-badge)
 
-<hr>
+---
 
-## 📈 GitHub Stats
+# 💼 Professional Expertise
+
+## 📊 Data Analyst
+
+- 📈 Data Cleaning & Data Transformation
+- 📊 Dashboard Development using Power BI & Tableau
+- 📉 Data Visualization & Storytelling
+- 📑 KPI & Business Performance Reporting
+- 🐍 Python for Data Analysis
+- 🗄 SQL Query Optimization & Database Analysis
+- 📋 Excel, Pivot Tables & Power Query
+- 📊 Exploratory Data Analysis
+- 📈 Statistical Analysis & Business Insights
+
+## 📈 Business Analyst
+
+- 📝 Business Requirement Document
+- 📄 Functional Requirement Document
+- ✅ User Acceptance Testing
+- 🎯 Root Cause Analysis
+- 📊 SWOT Analysis
+- 🚀 Agile Practices
+- 📌 Process Improvement
+- 📉 KPI Tracking & Performance Monitoring
+- 💡 Business Intelligence & Decision Support
+- 📚 Data Storytelling & Executive Reporting
+
+---
+
+# 📌 Featured Projects
+
+## ✈️ Aerox Aviation Database & Analytics System
+
+Designed a normalized SQL database for airline operations including passengers, bookings, routes, crew, airport services, transactions, revenue, and customer feedback analysis.
+
+**Tools Used:** SQL, MySQL, Database Design, ERD, RCA, SWOT  
+
+---
+
+## 📈 Fundraising Analytics Dashboard
+
+Built an interactive dashboard to analyze campaign success rate, donor behavior, marketing performance, fundraising methods, and ROI improvement opportunities.
+
+**Tools Used:** Excel, Power Query, Looker Studio, Dashboarding, KPI Analysis  
+
+---
+
+## 🎓 Learning & Development Analytics Dashboard
+
+Created a Power BI dashboard to analyze training performance, employee engagement, department-wise ROI, completion status, and performance gain.
+
+**Tools Used:** Power BI, Excel, DAX, KPI Analysis, Business Intelligence  
+
+
+
+
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MihirJ2002&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MihirJ2002&theme=tokyonight" width="48%">
-</p>
-
-<hr>
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="www.linkedin.com/in/mihir-jadhav-304b4040b/">LinkedIn</a> |
-<a href="mailto:mihirjdhav032002@gmail.com">Gmail</a> |
-<a href="https://github.com/MihirJ2002">GitHub</a>
+  ⭐ Thank you for visiting my profile ⭐
 </p>
